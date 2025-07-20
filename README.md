@@ -23,22 +23,14 @@ The program uses a hardcoded dictionary of stock prices, takes user input for st
 
 🔹 *Basic Chatbot*  
 A rule‑based chatbot that responds to simple user inputs like *hello, **how are you, and **bye*.  
-It uses conditional statements inside a loop to interact with the user until they exit.  
+Ituses conditional statements inside a loop to interact with the user until they exit.  
 *Key Concepts:* if-elif, loops, functions, input/output
 
 ---
 
-## ✨ Skills Practiced
-✔ Loops (while, for)  
-✔ Conditional logic (if-elif-else)  
-✔ Data structures (lists, dictionaries)  
-✔ Functions and input/output handling  
-✔ Problem‑solving through small, real‑life inspired programs
+#### Tools Used
+- IDE: Visual Studio Code (VS Code)
+- Programming Language: Python
+- Version Control & Hosting: GitHub
 
----
-
-💡 *How to Run*
-```bash
-python hangman.py
-python stock_portfolio.py
-python chatbot.py
+#Python #VSCode #GitHub #GameDevelopment #HangmanGame #CodeAlpha
